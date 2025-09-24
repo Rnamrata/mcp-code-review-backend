@@ -1,0 +1,16 @@
+{
+  "name": "mcp-code-analysis-server",
+  "version": "1.0.0",
+  "description": "MCP Server for Code Analysis",
+  "main": "dist/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon --exec ts-node --esm src/server.ts",
+    "build": "tsc",
+    "start": "node dist/server.js",
+    "test": "jest"
+  },
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}
