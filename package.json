@@ -1,0 +1,20 @@
+{
+  "name": "mcp-code-review-backend",
+  "version": "1.0.0",
+  "description": "Backend API for MCP Code Review Platform",
+  "main": "dist/server.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rnamrata/mcp-code-review-backend.git"
+  },
+  "keywords": [
+    "mcp",
+    "code-review",
+    "ai",
+    "backend",
+    "nodejs",
+    "typescript"
+  ],
+  "author": "Namrata"
+}
