@@ -141,3 +141,7 @@ vite.config.ts.timestamp-*
 =======
 .DS_Store
 >>>>>>> 0be7c34 (Creating the basic structure)
+
+node_modules/
+dist/
+uploads/
